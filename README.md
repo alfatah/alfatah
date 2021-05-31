@@ -1,7 +1,7 @@
 Hi 👋, I'm Sholahuddin Alfatah
 ---
 
-### I am a user enthusiast and a life long learner.
+###  🕶️ I am a user enthusiast and a life long learner.
 
 <p>
 
