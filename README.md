@@ -1,10 +1,8 @@
 # <a href="https://github.com/alfatah/alfatah"><img align='center' src="https://readme-typing-svg.herokuapp.com?color=%237900F7&size=32&vCenter=true&width=512&height=48&lines=console.log('Hello+Brother')"/></a>
 
 👋 Halo! Saya, Sholahuddin Alfatah
+### 🎓 I am a Student and a life long learner.
 ---
-
-###  I am a Student and a life long learner.
-
 🚀 Pengembang Perangkat Lunak | 📚 Pecinta Teknologi | 🌱 Pembelajar Berkelanjutan
 
 🎓 Saya seorang pengembang perangkat lunak yang bersemangat tentang menciptakan solusi teknologi yang inovatif. Saya tertarik dengan berbagai bidang, termasuk pemrograman web, pengembangan perangkat lunak berbasis AI, dan analisis data.
