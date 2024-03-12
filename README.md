@@ -1,18 +1,18 @@
-# <a href="https://github.com/alfatah/alfatah"><img align='center' src="https://readme-typing-svg.herokuapp.com?color=%237900F7&size=32&vCenter= true&width=512&height=48&lines=console.log('Hello+Brother')"/></a>
+# <a href="https://github.com/alfatah/alfatah"><img align='center' src="https://readme-typing-svg.herokuapp.com?color=%237900F7&size=32&vCenter= true&width=512&height=48&lines=console.log('Halo+Saudara')"/></a>
 
-### 👋 Hello! I am Sholahuddin Alfatah
-### 🎓 I am a Student and a lifelong learner
+### 👋 Halo! Saya Sholahuddin Alfatah
+### 🎓 Saya seorang Pelajar dan pembelajar seumur hidup
 ---
-🚀 Software Developer | 📚 Technology Lover | 🌱 Continuous Learner
+🚀 Pengembang Perangkat Lunak | 📚 Pecinta Teknologi | 🌱 Pembelajar Berkelanjutan
 
-🎓 I am a software developer passionate about creating innovative technology solutions. I am interested in a variety of fields, including web programming, AI-based software development, and data analysis.
+🎓 Saya seorang pengembang perangkat lunak yang bersemangat tentang menciptakan solusi teknologi yang inovatif. Saya tertarik dengan berbagai bidang, termasuk pemrograman web, pengembangan perangkat lunak berbasis AI, dan analisis data.
 
-💼 I'm currently exploring the world of open source and contributing to some interesting projects. Let's collaborate and build something great together!
+💼 Saat ini saya sedang menjelajahi dunia open source dan berkontribusi pada beberapa proyek yang menarik. Mari kita berkolaborasi dan membangun sesuatu yang hebat bersama-sama!
 
 <p>
 
-### 🌟 Let's connect:
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] [linked]
+### 🌟 Mari terhubung:
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] [ditautkan]
   
 <br />
 <br />
