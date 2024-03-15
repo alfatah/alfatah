@@ -13,6 +13,10 @@
 
 ### 🌟 Let's connect :
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+<a href="https://www.youtube.com/@hooxchannel" target="_blank">
+  <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-f70000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
   
 <br />
 <br />
