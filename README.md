@@ -2,7 +2,7 @@
 
 ### 👋 Hello! I am Sholahuddin Alfatah
 ### 🎓 I am a student and a life long learner
---
+---
 🚀 Software Developer | 📚 Technology Lover | 🌱 Continuous Learner
 
 🎓 I am a software developer passionate about creating innovative technology solutions. I am interested in a variety of fields, including web programming, AI-based software development, and data analysis.
