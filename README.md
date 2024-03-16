@@ -2,7 +2,7 @@
 
 ---
 
-# **👋 Hello! I am Sholahuddin Alfatah**
+#**👋 Hello! I am Sholahuddin Alfatah**
 
 ---
 
