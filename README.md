@@ -5,7 +5,6 @@
 ---
 
 <br>
-<br>
 
 # **👋 Hello! I am Sholahuddin Alfatah**
 
