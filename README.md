@@ -23,7 +23,7 @@
 
 [linkedin]: https://www.linkedin.com/in/sholahuddin-alfatah/
 
-## Support Me
+## 💰 Support Me :
 <a href="https://ko-fi.com/alfatah" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a ko-fi" /></a>
 <a href="https://trakteer.id/sholahuddin_alfatah/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="36" style="border: 0px; height: 36px; " alt="Trakteer Saya" /></a>
 
