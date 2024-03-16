@@ -2,7 +2,7 @@
 
 ### 👋 Hello! I am Sholahuddin Alfatah
 ### 🎓 I am a student and a life long learner
----
+--
 🚀 Software Developer | 📚 Technology Lover | 🌱 Continuous Learner
 
 🎓 I am a software developer passionate about creating innovative technology solutions. I am interested in a variety of fields, including web programming, AI-based software development, and data analysis.
@@ -25,5 +25,11 @@
 
 ## Support Me
 
+<<<<<<< HEAD
 <a href="https://ko-fi.com/J3J1S7T4L" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a ko-fi" /></a>
 <a href="https://trakteer.id/fityannugroho/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="36" style="border: 0px; height: 36px; " alt="Trakteer Saya" /></a>
+=======
+<a href="https://ko-fi.com/alfatah/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='alfatah'" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a ko-fi" /></a>
+<a href="https://trakteer.id/fityannugroho/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="36" style="border: 0px; height: 36px; " alt="Trakteer Saya" /></a>
+
+>>>>>>> d54319b75048149e717a6213a0da6049c920c899
