@@ -4,8 +4,6 @@
 
 ---
 
-<br>
-
 # **👋 Hello! I am Sholahuddin Alfatah**
 
 🚀 Software Developer | 📚 Technology Lover | 🌱 Continuous Learner
