@@ -40,6 +40,8 @@
 <a href="https://trakteer.id/sholahuddin_alfatah/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="36" style="border: 0px; height: 36px; " alt="Trakteer Saya" /></a>
 
 
+---
+
 ###
 
 <br clear="both">
@@ -47,3 +49,5 @@
 <img src="https://raw.githubusercontent.com/Paiiss/Paiiss/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
