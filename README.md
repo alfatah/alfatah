@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Paiiss/Paiiss/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alfatah/alfatah/output/snake.svg" alt="Snake animation" />
 
 ###
 
