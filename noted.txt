@@ -1,0 +1,9 @@
+Kedua tautan yang Anda berikan mengarah ke alat daring yang membantu pengguna membuat profil README yang menarik untuk GitHub mereka. README adalah file teks yang biasanya ditempatkan di repositori GitHub untuk memberikan deskripsi, instruksi, atau informasi lain tentang proyek. Berikut adalah penjelasan singkat tentang masing-masing alat:
+
+1. **Profile README Generator** ([profile-readme-generator.com](https://profile-readme-generator.com/))
+   - Alat ini memungkinkan pengguna untuk membuat profil README GitHub dengan berbagai komponen seperti statistik GitHub, badge, dan bagian tentang diri mereka sendiri. Pengguna dapat menyesuaikan berbagai elemen dan melihat pratinjau sebelum mengunduh atau menyalin kode markdown.
+
+2. **GitHub Profile README Generator** ([rahuldkjain.github.io/gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/))
+   - Alat ini dibuat oleh Rahul Jain dan berfungsi serupa dengan alat sebelumnya, menyediakan antarmuka pengguna yang sederhana untuk membuat README profil GitHub yang menarik. Pengguna dapat menambahkan komponen seperti ringkasan, statistik, repositori yang paling sering dikunjungi, dan lainnya. Kode yang dihasilkan bisa langsung digunakan di profil GitHub.
+
+Kedua alat ini sangat berguna bagi pengembang yang ingin memperindah tampilan profil GitHub mereka dengan informasi yang menarik dan mudah dibaca.
